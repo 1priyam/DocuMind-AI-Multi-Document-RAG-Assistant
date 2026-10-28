@@ -1,0 +1,7 @@
+flask>=3.0
+pypdf>=5.0
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+numpy
+google-genai>=1.0
+python-dotenv
